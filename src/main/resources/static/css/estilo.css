@@ -1,0 +1,49 @@
+.bodyindex{
+    margin: 0;
+    font-family: monospace;
+    background-color: #63CCCF;
+}
+
+
+
+header{
+    background-color: rgb(106, 36, 185);
+    padding: 20px;
+    
+}
+
+header > h2{
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+.carousel-inner{
+    width: 75%;
+    height: auto;
+    margin-left: 200px;
+}
+
+.imgindex{
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+footer{
+    background-color: rgb(106, 36, 185);
+    
+}
+
+.rodape{
+    color: antiquewhite; 
+    text-align: center;   
+}
+
+.table{
+    width: 60%;
+}
